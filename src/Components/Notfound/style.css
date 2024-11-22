@@ -1,0 +1,10 @@
+.not-found-bg {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+.not-found-img {
+  max-width: 450px;
+  flex-shrink: 1;
+}
